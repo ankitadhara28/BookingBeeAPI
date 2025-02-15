@@ -56,7 +56,7 @@ Welcome to **BookingBeeAPI**! 🐝 This project, maintained by [ankitadhara28](h
 
 The server will start on `http://localhost:3000`.
 
-## Usage
+## 🚀 Usage
 
 ### Base URL:
 ```
